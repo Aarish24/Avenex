@@ -17,19 +17,16 @@ react-use: A popular React utility belt that helps you write less code and build
 
 Getting Started:
 
-1.
-Clone the repository:
+1.Clone the repository:
 git clone https://github.com/your-username/awards.git
 Apply
 Replace your-username with your GitHub username.
 
-2.
-Install dependencies:
+2.Install dependencies:
 npm install
 Apply
 
-3.
-Start the development server:
+3.Start the development server:
 npm start
 Apply
 The application will be available at http://localhost:3000 in your default browser.
